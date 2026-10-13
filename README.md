@@ -58,6 +58,8 @@ El proyecto se encuentra en la etapa de análisis, diseño y documentación. Dur
 
 Las evidencias técnicas fueron incorporadas al repositorio y su carga quedó registrada en el historial de commits.
 
+La programación del frontend, backend y base de datos, así como las pruebas de funcionamiento, quedan pendientes.
+
 ## Organización prevista de las evidencias
 - Requisitos e historias de usuario.
 - Modelos UML.

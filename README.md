@@ -56,7 +56,7 @@ Esta organización corresponde al diseño previsto y queda pendiente de implemen
 ## Estado actual
 El proyecto se encuentra en la etapa de análisis, diseño y documentación. Durante la asignatura se han trabajado los requisitos, las historias de usuario, los modelos UML, la arquitectura inicial y la planificación de tareas.
 
-El cierre técnico contempla incorporar estas evidencias al repositorio y registrar sus cambios. La programación del frontend, backend y base de datos, así como las pruebas de funcionamiento, quedan pendientes.
+Las evidencias técnicas fueron incorporadas al repositorio y su carga quedó registrada en el historial de commits.
 
 ## Organización prevista de las evidencias
 - Requisitos e historias de usuario.
@@ -81,3 +81,10 @@ https://github.com/users/contreraslm29-dotcom/projects/1
 
 ## Próximo paso técnico
 Consolidar las evidencias en el repositorio, revisar la coherencia entre los requisitos y los modelos e iniciar la implementación del registro de pacientes y el agendamiento de citas.
+
+## Registro de cambios y avances
+1. Se definieron los requisitos funcionales y no funcionales, las historias de usuario y los criterios de aceptación del sistema.
+2. Se elaboraron los modelos UML para representar los actores, las clases y los procesos principales.
+3. Se propuso una arquitectura por capas, separando presentación, lógica de negocio y acceso a datos.
+4. Se organizó el seguimiento del proyecto mediante GitHub Projects y se registraron tareas, riesgos y mejoras en Issues.
+5. Se incorporaron las evidencias técnicas al repositorio y se documentaron en el README el sistema y la organización prevista del frontend y backend.

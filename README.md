@@ -91,7 +91,7 @@ Consolidar las evidencias en el repositorio, revisar la coherencia entre los req
 4. Se organizó el seguimiento del proyecto mediante GitHub Projects y se registraron tareas, riesgos y mejoras en Issues.
 5. Se incorporaron las evidencias técnicas al repositorio y se documentaron en el README el sistema y la organización prevista del frontend y backend.
 
-6. ## Nota técnica de versión 0.1 — Documentación inicial
+## Nota técnica de versión 0.1 — Documentación inicial
 
 ### Contenido de la versión
 Esta versión reúne los requisitos, historias de usuario, modelos UML, arquitectura inicial y documentos de gestión y comunicación del Sistema de Gestión de Citas Médicas. Incluye el README y el registro de cinco avances. Corresponde a la etapa de análisis y diseño; todavía no contiene una aplicación funcional.

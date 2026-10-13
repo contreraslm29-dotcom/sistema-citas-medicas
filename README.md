@@ -90,3 +90,17 @@ Consolidar las evidencias en el repositorio, revisar la coherencia entre los req
 3. Se propuso una arquitectura por capas, separando presentación, lógica de negocio y acceso a datos.
 4. Se organizó el seguimiento del proyecto mediante GitHub Projects y se registraron tareas, riesgos y mejoras en Issues.
 5. Se incorporaron las evidencias técnicas al repositorio y se documentaron en el README el sistema y la organización prevista del frontend y backend.
+
+6. ## Nota técnica de versión 0.1 — Documentación inicial
+
+### Contenido de la versión
+Esta versión reúne los requisitos, historias de usuario, modelos UML, arquitectura inicial y documentos de gestión y comunicación del Sistema de Gestión de Citas Médicas. Incluye el README y el registro de cinco avances. Corresponde a la etapa de análisis y diseño; todavía no contiene una aplicación funcional.
+
+### Cambios controlados
+Se registraron mediante commits la creación del README, la incorporación de evidencias y las actualizaciones de la documentación. Se revisaron los Issues y se ajustó el tablero para reflejar las tareas completadas y pendientes.
+
+### Aspectos pendientes
+Quedan pendientes el diseño detallado de la base de datos y de las interfaces, la programación del frontend y backend, su integración y las pruebas de funcionamiento.
+
+### Próximo paso técnico
+Elaborar el modelo relacional de la base de datos y el prototipo de las pantallas. Después, implementar el registro de pacientes y el agendamiento, incluyendo la validación para evitar citas duplicadas.
